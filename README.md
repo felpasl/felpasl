@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Kubernetes Kong or Apisix
-- 🌱 I’m currently learning Istio
+- 🔭 I’m currently working on Kubernetes with Apisix, Node and .Net
+- 🌱 I’m currently learning AI Model Context Protocol
 - 📫 How to reach me: felipe.lambert@outlook.com
 
 <div align="center">
